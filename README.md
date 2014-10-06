@@ -6,7 +6,7 @@ War distribution visualization
 ## Description
 This is a 3D visualization using Google WebGL Globe [1] of the Militarized Interstate Dispute Location (MIDLOC) dataset [2]. This contains information about the precise geographic onset location of Militarized Interstate Disputes (MIDs) in the post-Napoleonic era (from 1816-2001). There are a total of 3865 individual MIDLOC records. The data can be downloaded from [3].
 
-[Click here](warvisualization.s3-website-us-east-1.amazonaws.com) for the interactive demo (Requires a WebGL capable browser like Google Chrome)
+[Click here](http://warvisualization.s3-website-us-east-1.amazonaws.com) for the interactive demo (Requires a WebGL capable browser like Google Chrome)
 
 ## Credits
 [1] [http://www.chromeexperiments.com/globe](http://www.chromeexperiments.com/globe)
